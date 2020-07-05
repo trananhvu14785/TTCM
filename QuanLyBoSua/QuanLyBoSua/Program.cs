@@ -16,7 +16,7 @@ namespace QuanLyBoSua
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FdangNhap());
+            Application.Run(new FVonMuaBo());
         }
     }
 }
